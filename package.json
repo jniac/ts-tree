@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "npx tap"
+  },
+  "devDependencies": {
+    "@types/tap": "^14.10.3",
+    "tap": "^14.11.0",
+    "typescript": "^4.2.3"
+  }
+}
