@@ -3,6 +3,8 @@
 Minimal script to implement a tree (graph).
 
 ```js
+import { Node } from '../src/tree'
+
 const A = new Node()
 const B = new Node()
 const C = new Node()
